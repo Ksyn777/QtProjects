@@ -20,5 +20,4 @@ The project focuses on advanced state management, component-driven architecture,
 * **Graphics:** Scalable Vector Graphics (SVG), Qt Quick Canvas 2D
 
 ## 📸 Preview
-*(Tip: Replace this placeholder with a real screenshot of your remote!)*
 ![Smart TV Remote Preview](images/RemoteControl.png)
