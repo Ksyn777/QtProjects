@@ -78,19 +78,11 @@
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
-                            "column": 31,
-                            "durationMicroseconds": 0,
-                            "functionName": "centerIn",
-                            "line": 48,
-                            "message": ""
-                        },
-                        {
                             "codegenResult": 2,
                             "column": 36,
                             "durationMicroseconds": 0,
                             "functionName": "channelNames",
-                            "line": 63,
+                            "line": 53,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
                         },
                         {
@@ -98,7 +90,7 @@
                             "column": 9,
                             "durationMicroseconds": 0,
                             "functionName": "nextChannel",
-                            "line": 77,
+                            "line": 67,
                             "message": "Cannot load property length from (component in C:/Users/kamil/Desktop/QtResult/RemoteControl/Main.qml)::channelNames with type QVariant."
                         },
                         {
@@ -106,7 +98,7 @@
                             "column": 9,
                             "durationMicroseconds": 0,
                             "functionName": "prevChannel",
-                            "line": 85,
+                            "line": 75,
                             "message": "Cannot load property length from (component in C:/Users/kamil/Desktop/QtResult/RemoteControl/Main.qml)::channelNames with type QVariant."
                         },
                         {
@@ -114,7 +106,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 95,
+                            "line": 85,
                             "message": ""
                         },
                         {
@@ -122,7 +114,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 101,
+                            "line": 91,
                             "message": ""
                         },
                         {
@@ -130,7 +122,7 @@
                             "column": 26,
                             "durationMicroseconds": 0,
                             "functionName": "top",
-                            "line": 103,
+                            "line": 93,
                             "message": ""
                         },
                         {
@@ -138,7 +130,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "left",
-                            "line": 104,
+                            "line": 94,
                             "message": ""
                         },
                         {
@@ -146,7 +138,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 109,
+                            "line": 99,
                             "message": ""
                         },
                         {
@@ -154,7 +146,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 116,
+                            "line": 106,
                             "message": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/kamil/Desktop/QtResult/RemoteControl/Main.qml)::channelNames with type QVariant (adjusted to QJSValue, stored as QJSValue)"
                         },
                         {
@@ -162,7 +154,7 @@
                             "column": 43,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalCenter",
-                            "line": 122,
+                            "line": 112,
                             "message": ""
                         },
                         {
@@ -170,7 +162,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 125,
+                            "line": 115,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
                         },
                         {
@@ -178,7 +170,7 @@
                             "column": 33,
                             "durationMicroseconds": 0,
                             "functionName": "source",
-                            "line": 130,
+                            "line": 120,
                             "message": "Cannot access value for name modelData"
                         },
                         {
@@ -186,7 +178,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fillMode",
-                            "line": 131,
+                            "line": 121,
                             "message": ""
                         },
                         {
@@ -194,7 +186,7 @@
                             "column": 34,
                             "durationMicroseconds": 0,
                             "functionName": "opacity",
-                            "line": 133,
+                            "line": 123,
                             "message": "Cannot access value for name index"
                         },
                         {
@@ -202,7 +194,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 147,
+                            "line": 137,
                             "message": ""
                         },
                         {
@@ -210,7 +202,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "right",
-                            "line": 150,
+                            "line": 140,
                             "message": ""
                         },
                         {
@@ -218,7 +210,7 @@
                             "column": 37,
                             "durationMicroseconds": 0,
                             "functionName": "verticalCenter",
-                            "line": 152,
+                            "line": 142,
                             "message": ""
                         },
                         {
@@ -226,7 +218,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 155,
+                            "line": 145,
                             "message": ""
                         },
                         {
@@ -234,7 +226,7 @@
                             "column": 25,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 159,
+                            "line": 149,
                             "message": ""
                         },
                         {
@@ -242,7 +234,7 @@
                             "column": 33,
                             "durationMicroseconds": 0,
                             "functionName": "bottom",
-                            "line": 157,
+                            "line": 147,
                             "message": ""
                         },
                         {
@@ -250,7 +242,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 172,
+                            "line": 162,
                             "message": ""
                         },
                         {
@@ -258,7 +250,7 @@
                             "column": 39,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalCenter",
-                            "line": 177,
+                            "line": 167,
                             "message": ""
                         },
                         {
@@ -266,7 +258,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 180,
+                            "line": 170,
                             "message": "Cannot generate efficient code for storing an array in a non-sequence type"
                         },
                         {
@@ -274,7 +266,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 182,
+                            "line": 172,
                             "message": "Cannot access value for name topButton"
                         },
                         {
@@ -282,7 +274,7 @@
                             "column": 32,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 192,
+                            "line": 182,
                             "message": "Cannot access value for name index"
                         },
                         {
@@ -290,7 +282,7 @@
                             "column": 32,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 186,
+                            "line": 176,
                             "message": ""
                         },
                         {
@@ -298,7 +290,7 @@
                             "column": 33,
                             "durationMicroseconds": 0,
                             "functionName": "source",
-                            "line": 188,
+                            "line": 178,
                             "message": "Cannot access value for name modelData"
                         },
                         {
@@ -306,7 +298,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fillMode",
-                            "line": 190,
+                            "line": 180,
                             "message": ""
                         },
                         {
@@ -314,7 +306,7 @@
                             "column": 43,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 189,
+                            "line": 179,
                             "message": ""
                         },
                         {
@@ -322,7 +314,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 215,
+                            "line": 205,
                             "message": ""
                         },
                         {
@@ -330,7 +322,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "radius",
-                            "line": 222,
+                            "line": 212,
                             "message": ""
                         },
                         {
@@ -338,7 +330,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "y",
-                            "line": 224,
+                            "line": 214,
                             "message": ""
                         },
                         {
@@ -346,7 +338,7 @@
                             "column": 39,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalCenter",
-                            "line": 223,
+                            "line": 213,
                             "message": ""
                         },
                         {
@@ -354,7 +346,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "fillMode",
-                            "line": 227,
+                            "line": 217,
                             "message": ""
                         },
                         {
@@ -362,7 +354,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 226,
+                            "line": 216,
                             "message": ""
                         },
                         {
@@ -370,7 +362,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 290,
+                            "line": 280,
                             "message": ""
                         },
                         {
@@ -378,7 +370,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 235,
+                            "line": 225,
                             "message": ""
                         },
                         {
@@ -386,7 +378,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerX",
-                            "line": 246,
+                            "line": 236,
                             "message": ""
                         },
                         {
@@ -394,7 +386,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerY",
-                            "line": 247,
+                            "line": 237,
                             "message": ""
                         },
                         {
@@ -402,31 +394,31 @@
                             "column": 55,
                             "durationMicroseconds": 0,
                             "functionName": "midRadius",
+                            "line": 240,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "midAngleRad",
+                            "line": 243,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
                             "line": 250,
                             "message": ""
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 57,
-                            "durationMicroseconds": 0,
-                            "functionName": "midAngleRad",
-                            "line": 253,
-                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "x",
-                            "line": 260,
-                            "message": ""
-                        },
-                        {
                             "codegenResult": 0,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "y",
-                            "line": 261,
+                            "line": 251,
                             "message": ""
                         },
                         {
@@ -434,7 +426,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "visible",
-                            "line": 269,
+                            "line": 259,
                             "message": ""
                         },
                         {
@@ -442,7 +434,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "onPaint",
-                            "line": 271,
+                            "line": 261,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
@@ -450,7 +442,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 268,
+                            "line": 258,
                             "message": ""
                         },
                         {
@@ -458,7 +450,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 351,
+                            "line": 341,
                             "message": ""
                         },
                         {
@@ -466,7 +458,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 295,
+                            "line": 285,
                             "message": ""
                         },
                         {
@@ -474,7 +466,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerX",
-                            "line": 306,
+                            "line": 296,
                             "message": ""
                         },
                         {
@@ -482,7 +474,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerY",
-                            "line": 307,
+                            "line": 297,
                             "message": ""
                         },
                         {
@@ -490,31 +482,31 @@
                             "column": 55,
                             "durationMicroseconds": 0,
                             "functionName": "midRadius",
+                            "line": 300,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "midAngleRad",
+                            "line": 303,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
                             "line": 310,
                             "message": ""
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 57,
-                            "durationMicroseconds": 0,
-                            "functionName": "midAngleRad",
-                            "line": 313,
-                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "x",
-                            "line": 320,
-                            "message": ""
-                        },
-                        {
                             "codegenResult": 0,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "y",
-                            "line": 321,
+                            "line": 311,
                             "message": ""
                         },
                         {
@@ -522,7 +514,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "visible",
-                            "line": 329,
+                            "line": 319,
                             "message": ""
                         },
                         {
@@ -530,7 +522,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "onPaint",
-                            "line": 331,
+                            "line": 321,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
@@ -538,7 +530,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 328,
+                            "line": 318,
                             "message": ""
                         },
                         {
@@ -546,7 +538,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 411,
+                            "line": 401,
                             "message": ""
                         },
                         {
@@ -554,7 +546,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 356,
+                            "line": 346,
                             "message": ""
                         },
                         {
@@ -562,7 +554,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerX",
-                            "line": 367,
+                            "line": 357,
                             "message": ""
                         },
                         {
@@ -570,7 +562,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerY",
-                            "line": 368,
+                            "line": 358,
                             "message": ""
                         },
                         {
@@ -578,31 +570,31 @@
                             "column": 55,
                             "durationMicroseconds": 0,
                             "functionName": "midRadius",
+                            "line": 361,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "midAngleRad",
+                            "line": 364,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
                             "line": 371,
                             "message": ""
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 57,
-                            "durationMicroseconds": 0,
-                            "functionName": "midAngleRad",
-                            "line": 374,
-                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "x",
-                            "line": 381,
-                            "message": ""
-                        },
-                        {
                             "codegenResult": 0,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "y",
-                            "line": 382,
+                            "line": 372,
                             "message": ""
                         },
                         {
@@ -610,7 +602,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "visible",
-                            "line": 390,
+                            "line": 380,
                             "message": ""
                         },
                         {
@@ -618,7 +610,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "onPaint",
-                            "line": 392,
+                            "line": 382,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
@@ -626,7 +618,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 389,
+                            "line": 379,
                             "message": ""
                         },
                         {
@@ -634,7 +626,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 471,
+                            "line": 461,
                             "message": ""
                         },
                         {
@@ -642,7 +634,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 416,
+                            "line": 406,
                             "message": ""
                         },
                         {
@@ -650,7 +642,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerX",
-                            "line": 427,
+                            "line": 417,
                             "message": ""
                         },
                         {
@@ -658,7 +650,7 @@
                             "column": 53,
                             "durationMicroseconds": 0,
                             "functionName": "centerY",
-                            "line": 428,
+                            "line": 418,
                             "message": ""
                         },
                         {
@@ -666,7 +658,7 @@
                             "column": 55,
                             "durationMicroseconds": 0,
                             "functionName": "midRadius",
-                            "line": 431,
+                            "line": 421,
                             "message": ""
                         },
                         {
@@ -674,7 +666,7 @@
                             "column": 57,
                             "durationMicroseconds": 0,
                             "functionName": "midAngleRad",
-                            "line": 434,
+                            "line": 424,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
@@ -682,7 +674,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "x",
-                            "line": 441,
+                            "line": 431,
                             "message": ""
                         },
                         {
@@ -690,7 +682,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "y",
-                            "line": 442,
+                            "line": 432,
                             "message": ""
                         },
                         {
@@ -698,7 +690,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "visible",
-                            "line": 450,
+                            "line": 440,
                             "message": ""
                         },
                         {
@@ -706,7 +698,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "onPaint",
-                            "line": 452,
+                            "line": 442,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
@@ -714,7 +706,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 449,
+                            "line": 439,
                             "message": ""
                         },
                         {
@@ -722,7 +714,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 477,
+                            "line": 467,
                             "message": ""
                         },
                         {
@@ -730,7 +722,7 @@
                             "column": 17,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 478,
+                            "line": 468,
                             "message": ""
                         },
                         {
@@ -738,7 +730,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 479,
+                            "line": 469,
                             "message": ""
                         },
                         {
@@ -746,7 +738,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 485,
+                            "line": 475,
                             "message": ""
                         },
                         {
@@ -754,7 +746,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 495,
+                            "line": 485,
                             "message": "Cannot load property length from (component in C:/Users/kamil/Desktop/QtResult/RemoteControl/Main.qml)::channelNames with type QVariant."
                         },
                         {
@@ -762,7 +754,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "left",
-                            "line": 486,
+                            "line": 476,
                             "message": ""
                         },
                         {
@@ -770,7 +762,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 490,
+                            "line": 480,
                             "message": ""
                         },
                         {
@@ -778,23 +770,23 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "height",
+                            "line": 499,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
                             "line": 509,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 519,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "right",
-                            "line": 510,
+                            "line": 500,
                             "message": ""
                         },
                         {
@@ -802,7 +794,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 514,
+                            "line": 504,
                             "message": ""
                         },
                         {
@@ -810,7 +802,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 528,
+                            "line": 518,
                             "message": ""
                         },
                         {
@@ -818,7 +810,7 @@
                             "column": 17,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 529,
+                            "line": 519,
                             "message": ""
                         },
                         {
@@ -826,7 +818,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 530,
+                            "line": 520,
                             "message": ""
                         },
                         {
@@ -834,7 +826,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 536,
+                            "line": 526,
                             "message": ""
                         },
                         {
@@ -842,7 +834,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 546,
+                            "line": 536,
                             "message": "Cannot load property length from (component in C:/Users/kamil/Desktop/QtResult/RemoteControl/Main.qml)::channelNames with type QVariant."
                         },
                         {
@@ -850,7 +842,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "left",
-                            "line": 537,
+                            "line": 527,
                             "message": ""
                         },
                         {
@@ -858,7 +850,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 541,
+                            "line": 531,
                             "message": ""
                         },
                         {
@@ -866,7 +858,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 558,
+                            "line": 548,
                             "message": ""
                         },
                         {
@@ -874,7 +866,7 @@
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 568,
+                            "line": 558,
                             "message": ""
                         },
                         {
@@ -882,7 +874,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "right",
-                            "line": 559,
+                            "line": 549,
                             "message": ""
                         },
                         {
@@ -890,7 +882,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 563,
+                            "line": 553,
                             "message": ""
                         },
                         {
@@ -898,7 +890,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalCenter",
-                            "line": 581,
+                            "line": 571,
                             "message": ""
                         },
                         {
@@ -906,7 +898,7 @@
                             "column": 25,
                             "durationMicroseconds": 0,
                             "functionName": "bottom",
-                            "line": 582,
+                            "line": 572,
                             "message": ""
                         },
                         {
@@ -914,7 +906,7 @@
                             "column": 39,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalCenter",
-                            "line": 587,
+                            "line": 577,
                             "message": ""
                         },
                         {
@@ -922,7 +914,7 @@
                             "column": 36,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 603,
+                            "line": 593,
                             "message": "Cannot access value for name tvControl"
                         },
                         {
@@ -930,7 +922,7 @@
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 600,
+                            "line": 590,
                             "message": "Cannot access value for name index"
                         },
                         {
@@ -938,7 +930,7 @@
                             "column": 47,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 601,
+                            "line": 591,
                             "message": ""
                         },
                         {
@@ -946,7 +938,7 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 619,
+                            "line": 609,
                             "message": ""
                         },
                         {
@@ -954,7 +946,7 @@
                             "column": 39,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 616,
+                            "line": 606,
                             "message": ""
                         }
                     ],

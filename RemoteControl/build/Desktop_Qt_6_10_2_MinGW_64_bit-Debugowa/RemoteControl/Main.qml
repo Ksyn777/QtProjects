@@ -39,16 +39,6 @@ Window {
 
     }
 
-        TapHandler {
-            id: clicker
-        }
-
-        Text {
-            id: label
-            anchors.centerIn: parent
-            color: "white"
-        }
-
 
     QtObject {
         id: tvControl
