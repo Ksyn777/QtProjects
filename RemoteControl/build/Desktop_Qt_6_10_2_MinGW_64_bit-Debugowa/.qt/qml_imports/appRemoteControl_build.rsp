@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/kamil/Desktop/QtResult/RemoteControl
+-cmake-output
+-output-file
+C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa/.qt/qml_imports/appRemoteControl_build.cmake
+-importPath
+C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa
+-importPath
+C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa/RemoteControl
+-importPath
+C:/Qt/6.10.2/mingw_64/qml
+-qrcFiles
+C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa/.qt/rcc/qmake_RemoteControl.qrc
+C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa/.qt/rcc/appRemoteControl_raw_qml_0.qrc
+C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa/.qt/rcc/appRemoteControl_raw_res_0.qrc

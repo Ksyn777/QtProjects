@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/qt/qml/RemoteControl/">
+    <file alias="fonts/Silkscreen/Silkscreen-Bold.ttf">C:/Users/kamil/Desktop/QtResult/RemoteControl/fonts/Silkscreen/Silkscreen-Bold.ttf</file>
+    <file alias="fonts/Silkscreen/Silkscreen-Regular.ttf">C:/Users/kamil/Desktop/QtResult/RemoteControl/fonts/Silkscreen/Silkscreen-Regular.ttf</file>
+    <file alias="images/cast_connected.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/cast_connected.svg</file>
+    <file alias="images/cast_white.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/cast_white.svg</file>
+    <file alias="images/closed_caption.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/closed_caption.svg</file>
+    <file alias="images/closed_caption_white.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/closed_caption_white.svg</file>
+    <file alias="images/fast_forward.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/fast_forward.svg</file>
+    <file alias="images/fast_rewind.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/fast_rewind.svg</file>
+    <file alias="images/hdr_on.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/hdr_on.svg</file>
+    <file alias="images/hdr_on_white.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/hdr_on_white.svg</file>
+    <file alias="images/mic.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/mic.svg</file>
+    <file alias="images/mic_white.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/mic_white.svg</file>
+    <file alias="images/minus.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/minus.svg</file>
+    <file alias="images/play_pause.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/play_pause.svg</file>
+    <file alias="images/plus.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/plus.svg</file>
+    <file alias="images/power.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/power.svg</file>
+    <file alias="images/settings.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/settings.svg</file>
+    <file alias="images/speaker.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/speaker.svg</file>
+    <file alias="images/speaker_muted.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/speaker_muted.svg</file>
+    <file alias="images/speaker_muted_white.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/speaker_muted_white.svg</file>
+    <file alias="images/volume_down.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/volume_down.svg</file>
+    <file alias="images/volume_up.svg">C:/Users/kamil/Desktop/QtResult/RemoteControl/images/volume_up.svg</file>
+  </qresource>
+</RCC>
+

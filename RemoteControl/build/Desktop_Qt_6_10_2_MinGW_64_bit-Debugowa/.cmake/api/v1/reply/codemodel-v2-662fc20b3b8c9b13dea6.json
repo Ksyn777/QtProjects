@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8cd7c1ddb9055ae6409b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RemoteControl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-858bb3ddebe4f0e83f61.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-20c08113d3b5f039d202.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b80245ee9819639a6ef9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e494fbda05e92e8bf59e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6f4aa66655441d5617ad.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl-Debug-d63454e6692bcd7a3de1.json",
+					"name" : "appRemoteControl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_autogen-Debug-45afbf280c96de3acfb8.json",
+					"name" : "appRemoteControl_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_autogen_timestamp_deps-Debug-247ea76c734d06a8ddf4.json",
+					"name" : "appRemoteControl_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_copy_qml-Debug-2469d712df59de607363.json",
+					"name" : "appRemoteControl_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_copy_res-Debug-dd079c3caacba61d0a56.json",
+					"name" : "appRemoteControl_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_qmlimportscan-Debug-276132523de472bc4be8.json",
+					"name" : "appRemoteControl_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_qmllint-Debug-6bfd4aeaa69658664350.json",
+					"name" : "appRemoteControl_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_qmllint_json-Debug-25ef418515590dabd284.json",
+					"name" : "appRemoteControl_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_qmllint_module-Debug-5433296c0338d648bca3.json",
+					"name" : "appRemoteControl_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRemoteControl_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRemoteControl_qmltyperegistration-Debug-dd84314392d41b063181.json",
+					"name" : "appRemoteControl_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-522b3d504da68a7a8231.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appRemoteControl_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appRemoteControl_aotstats_target-Debug-6b390c50f8c521b90381.json",
+					"name" : "module_appRemoteControl_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kamil/Desktop/QtResult/RemoteControl/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa",
+		"source" : "C:/Users/kamil/Desktop/QtResult/RemoteControl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

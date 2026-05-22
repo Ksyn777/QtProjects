@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/RemoteControl/">
+    <file alias="Main.qml">C:/Users/kamil/Desktop/QtResult/RemoteControl/Main.qml</file>
+    <file alias="CrookedButton.qml">C:/Users/kamil/Desktop/QtResult/RemoteControl/CrookedButton.qml</file>
+    <file alias="PilotButton.qml">C:/Users/kamil/Desktop/QtResult/RemoteControl/PilotButton.qml</file>
+  </qresource>
+</RCC>
+

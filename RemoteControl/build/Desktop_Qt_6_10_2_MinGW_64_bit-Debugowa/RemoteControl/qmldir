@@ -1,0 +1,8 @@
+module RemoteControl
+typeinfo appRemoteControl.qmltypes
+prefer :/qt/qml/RemoteControl/
+Main 254.0 Main.qml
+CrookedButton 254.0 CrookedButton.qml
+PilotButton 254.0 PilotButton.qml
+depends QtQuick
+
