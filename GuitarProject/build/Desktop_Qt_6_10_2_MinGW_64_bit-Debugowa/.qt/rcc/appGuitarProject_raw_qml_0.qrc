@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/GuitarProject/">
+    <file alias="Main.qml">C:/Users/kamil/Desktop/QtResult/GuitarProject/Main.qml</file>
+  </qresource>
+</RCC>
+

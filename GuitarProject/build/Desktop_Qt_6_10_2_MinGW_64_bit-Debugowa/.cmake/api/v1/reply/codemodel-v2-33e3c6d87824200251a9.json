@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3b187c7f06b9a7238e00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GuitarProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-3fe797ba383cf0b27d78.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3bfc1aa68809c8cc0dfd.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6f5e656acb1e661734a9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9f15aaba3ea4fb1cb147.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9f17d19afef1c5192fbb.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject-Debug-323e33f9805e7bd2f153.json",
+					"name" : "appGuitarProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_autogen-Debug-cfff2458bd62bbcf1527.json",
+					"name" : "appGuitarProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_autogen_timestamp_deps-Debug-74bd0ddc9a1f2d80b664.json",
+					"name" : "appGuitarProject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_copy_qml-Debug-e00b1df6aafb433dc1e9.json",
+					"name" : "appGuitarProject_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_copy_res-Debug-c49f4c36848f558a0f49.json",
+					"name" : "appGuitarProject_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_qmlimportscan-Debug-2284e2f5fcf37b49910f.json",
+					"name" : "appGuitarProject_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_qmllint-Debug-98e87d3146fd5d26a118.json",
+					"name" : "appGuitarProject_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_qmllint_json-Debug-ae25658a422a3530461f.json",
+					"name" : "appGuitarProject_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_qmllint_module-Debug-a5f010e4aaf6cd4ba4f8.json",
+					"name" : "appGuitarProject_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGuitarProject_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGuitarProject_qmltyperegistration-Debug-1ae08c39fc35fe86e8f7.json",
+					"name" : "appGuitarProject_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-522b3d504da68a7a8231.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appGuitarProject_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appGuitarProject_aotstats_target-Debug-6ade6c51c9f83c99c176.json",
+					"name" : "module_appGuitarProject_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kamil/Desktop/QtResult/GuitarProject/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debugowa",
+		"source" : "C:/Users/kamil/Desktop/QtResult/GuitarProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

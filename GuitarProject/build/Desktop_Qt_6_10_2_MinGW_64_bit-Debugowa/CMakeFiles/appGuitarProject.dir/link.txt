@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appGuitarProject.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appGuitarProject.dir/objects.a @CMakeFiles\appGuitarProject.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appGuitarProject.dir/objects.a -Wl,--no-whole-archive -o appGuitarProject.exe -Wl,--out-implib,libappGuitarProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appGuitarProject.dir\linkLibs.rsp

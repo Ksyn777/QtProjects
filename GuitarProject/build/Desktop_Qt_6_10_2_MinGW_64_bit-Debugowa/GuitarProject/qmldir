@@ -1,0 +1,6 @@
+module GuitarProject
+typeinfo appGuitarProject.qmltypes
+prefer :/qt/qml/GuitarProject/
+Main 254.0 Main.qml
+depends QtQuick
+
