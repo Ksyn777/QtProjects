@@ -19,6 +19,7 @@ qt_add_qml_module(appClimateControl
         RESOURCES assets/BrushedMetal.jpg assets/cool.svg assets/fan_fill.svg assets/fan_off.svg assets/fan_outline.svg assets/heat.svg
         QML_FILES ClimateControl.qml
         QML_FILES ZoneControls.qml
+        QML_FILES
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
